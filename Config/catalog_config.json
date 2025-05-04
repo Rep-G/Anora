@@ -1,0 +1,86 @@
+{
+    "daily1": {
+        "price": 1500,
+        "itemGrants": [
+            "AthenaCharacter:CID_056_Athena_Commando_M_SkiDude_GBR"
+        ],
+        "image": "https://fortnite-api.com/images/cosmetics/br/cid_056_athena_commando_m_skidude_gbr/icon.png",
+        "name": "Alpine Ace (GBR)"
+    },
+    "daily2": {
+        "price": 1200,
+        "itemGrants": [
+            "AthenaCharacter:CID_749_Athena_Commando_F_GraffitiAssassin"
+        ],
+        "image": "https://fortnite-api.com/images/cosmetics/br/cid_749_athena_commando_f_graffitiassassin/icon.png",
+        "name": "Yellowjacket"
+    },
+    "daily3": {
+        "price": 500,
+        "itemGrants": [
+            "AthenaDance:EID_FlyingKite"
+        ],
+        "image": "https://fortnite-api.com/images/cosmetics/br/eid_flyingkite/icon.png",
+        "name": "Kite!"
+    },
+    "daily4": {
+        "price": 500,
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_368_BananaAgent"
+        ],
+        "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_368_bananaagent/icon.png",
+        "name": "Bananaxe"
+    },
+    "daily5": {
+        "price": 1200,
+        "itemGrants": [
+            "AthenaBackpack:BID_414_ForestDwellerMale"
+        ],
+        "image": "https://fortnite-api.com/images/cosmetics/br/bid_414_forestdwellermale/icon.png",
+        "name": "Hollow Horn"
+    },
+    "daily6": {
+        "price": 1800,
+        "itemGrants": [
+            "AthenaGlider:Glider_ID_171_DevilRock"
+        ],
+        "image": "https://fortnite-api.com/images/cosmetics/br/glider_id_171_devilrock/icon.png",
+        "name": "Burning Beast"
+    },
+    "featured1": {
+        "price": 800,
+        "itemGrants": [
+            "AthenaCharacter:CID_016_Athena_Commando_F"
+        ],
+        "image": "https://fortnite-api.com/images/cosmetics/br/cid_016_athena_commando_f/featured.png",
+        "featured": true,
+        "name": "Commando"
+    },
+    "featured2": {
+        "price": 1200,
+        "itemGrants": [
+            "AthenaCharacter:CID_654_Athena_Commando_F_GiftWrap"
+        ],
+        "image": "https://fortnite-api.com/images/cosmetics/br/cid_654_athena_commando_f_giftwrap/featured.png",
+        "featured": true,
+        "name": "Frosted Flurry"
+    },
+    "featured3": {
+        "price": 1500,
+        "itemGrants": [
+            "AthenaCharacter:CID_662_Athena_Commando_M_FlameSkull"
+        ],
+        "image": "https://fortnite-api.com/images/cosmetics/br/cid_662_athena_commando_m_flameskull/featured.png",
+        "featured": true,
+        "name": "Bonehead"
+    },
+    "featured4": {
+        "price": 1500,
+        "itemGrants": [
+            "AthenaCharacter:CID_642_Athena_Commando_F_ConstellationStar"
+        ],
+        "image": "https://fortnite-api.com/images/cosmetics/br/cid_642_athena_commando_f_constellationstar/featured.png",
+        "featured": true,
+        "name": "Astra"
+    }
+}
